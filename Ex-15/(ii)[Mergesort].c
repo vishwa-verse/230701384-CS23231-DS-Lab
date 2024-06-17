@@ -1,3 +1,7 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+EX-15: Sorting(MergeSort)
+
 #include <stdio.h>
 
 void merge(int arr[], int left, int mid, int right) {
