@@ -1,3 +1,7 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+EX-7: Implementation of Queue using LinkedList
+
 #include <stdio.h>
 #include <stdlib.h>
 
