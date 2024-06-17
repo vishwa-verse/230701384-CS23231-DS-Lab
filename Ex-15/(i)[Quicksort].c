@@ -1,3 +1,7 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+EX-15: Sorting(QuickSort)
+
 #include <stdio.h>
 
 void swap(int* a, int* b) {
