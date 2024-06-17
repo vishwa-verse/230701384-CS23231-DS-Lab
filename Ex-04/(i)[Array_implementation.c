@@ -1,3 +1,7 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
