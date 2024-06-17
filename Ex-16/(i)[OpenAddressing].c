@@ -1,3 +1,7 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+EX-16: Implementation of collision resolution techniques(OpenAddressing)
+
 #include <stdio.h>
 #include <stdlib.h>
 
