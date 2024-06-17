@@ -1,5 +1,6 @@
 NAME: VISHWA.J
 ROLL.NO: 230701384
+EX-4: Implementation of Stack using Array
 
 
 #include <stdio.h>
