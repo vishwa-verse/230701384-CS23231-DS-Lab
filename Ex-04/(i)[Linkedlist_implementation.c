@@ -1,3 +1,8 @@
+NAME: VISHWA.J
+ROLL.NO: 230701384
+EX-4: Implementation of Stack using LinkedList
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
